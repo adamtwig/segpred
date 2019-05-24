@@ -1,0 +1,16 @@
+src/caffe/layers/flow_warp_layer.cu(365): warning: variable "whc_size" was declared but never referenced
+
+src/caffe/layers/flow_warp_layer.cu(469): warning: variable "whc_size" was declared but never referenced
+
+src/caffe/layers/flow_warp_layer.cu(365): warning: variable "whc_size" was declared but never referenced
+
+src/caffe/layers/flow_warp_layer.cu(469): warning: variable "whc_size" was declared but never referenced
+
+src/caffe/layers/flow_warp_layer.cu(365): warning: variable "whc_size" was declared but never referenced
+
+src/caffe/layers/flow_warp_layer.cu(469): warning: variable "whc_size" was declared but never referenced
+
+src/caffe/layers/flow_warp_layer.cu(365): warning: variable "whc_size" was declared but never referenced
+
+src/caffe/layers/flow_warp_layer.cu(469): warning: variable "whc_size" was declared but never referenced
+

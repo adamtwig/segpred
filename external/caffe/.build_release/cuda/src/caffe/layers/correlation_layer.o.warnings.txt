@@ -1,0 +1,8 @@
+./include/caffe/parallel.hpp(99): warning: type qualifier on return type is meaningless
+
+./include/caffe/parallel.hpp(99): warning: type qualifier on return type is meaningless
+
+./include/caffe/parallel.hpp(99): warning: type qualifier on return type is meaningless
+
+./include/caffe/parallel.hpp(99): warning: type qualifier on return type is meaningless
+
