@@ -62,8 +62,7 @@ def main(short_mid="t10", gpu_id=0):
     
     num_iter = 1
     
-    for ref_frame in img_set[:1]:
-    #for ref_frame in img_set:
+    for ref_frame in img_set:
    
         print("\rImages Processed: {}".format(num_iter), end=" ")
         sys.stdout.flush()
