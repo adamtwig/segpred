@@ -24,11 +24,13 @@ Our framework was tested with Debian GNU/Linux 8, Python 2.7, CUDA 8.0, cuDNN v5
 ## Setup
 For specific details regarding setup, please refer to [Installation.md](docs/Installation.md).
 
-## Testing
+## Results
 We release our top performing models for short-term and mid-term prediction, which achieve 67.2 mIOU and 52.5 mIOU, respectively on Cityscapes validation set. These results can be reproduced, after completing the setup, as follows:
 
     python segpred_val.py t3 0
     python segpred_val.py t10 0
+
+The pre-trained models are available for download [here](https://www.cse.msu.edu/computervision/segpred-release.zip).
 
 ## Contact
 For any questions regarding the framework, feel free to post an issue on this github. 
