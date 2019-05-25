@@ -4,7 +4,7 @@ Adam M. Terwilliger, Garrick Brazil, Xiaoming Liu
 ## Overview
 We are releasing our segmentation prediction framework for the Cityscapes dataset as detailed in our [arXiv report](https://arxiv.org/abs/1809.08318), accepted at WACV 2019. 
 ![Segpred Overview](http://cvlab.cse.msu.edu/images/segpred/overview.jpg)
-Our proposed approach aggregates past optical flow features using a convolutional LSTM to predict future optical flow, which is used by an learnable warp layer to produce future segmentation predictions.
+Our proposed approach aggregates past optical flow features using a convolutional LSTM to predict future optical flow, which is used by an learnable warp layer to produce future segmentation.
 
 For additional details, please visit our [project page](http://cvlab.cse.msu.edu/project-segpred.html).
 
