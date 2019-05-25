@@ -24,7 +24,7 @@ Our framework was tested with Debian GNU/Linux 8, Python 2.7, CUDA 8.0, cuDNN v5
 ## Setup
 For specific details regarding setup, please refer to [Installation.md](docs/Installation.md).
 
-## Results
+## Testing
 We release our top performing models for short-term and mid-term prediction, which achieve 67.2 mIOU and 52.5 mIOU, respectively on Cityscapes validation set. These results can be reproduced, after completing the setup, as follows:
 
     python segpred_val.py t3 0
